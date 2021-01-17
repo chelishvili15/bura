@@ -1,0 +1,36 @@
+body{
+        background: #151515;
+}
+
+.conteiner {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translateX(-50%)translateY(-50%);
+}
+
+td {
+        border: 1px solid white;
+}
+
+.divi {
+        display: flex;
+        justify-content: center;
+        margin: 50px 0px 50px 0px;
+        color: white;
+        position: relative;
+}
+
+input {
+        text-align: center;
+}
+
+#head{
+        display: flex;
+        padding: 20px;
+        justify-content: center;
+}
+
+header.div{
+        margin: 30px;
+}
